@@ -1,0 +1,14 @@
+name: bobWhitelist
+version: '${project.version}'
+main: com.survivorbob.mcdev.bobWhitelist
+api-version: 1.18
+prefix: bobWhitelist
+authors: [ KingDonkeyBong ]
+description: Permissions based whitelist.
+website: https://www.SurvivorBob.com
+softdepend: [ LuckPerms ]
+commands:
+  wl:
+    description: "Bob's Whitelist Commands"
+    usage: /wl <sub-command> [..arguments]
+    permission: bobWhitelist.admin

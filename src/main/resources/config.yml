@@ -1,0 +1,6 @@
+enable_whitelist: true
+whitelist_kick_message: "You are not whitelisted on this server"
+full_kick_message: "The server is at maximum player capacity"
+player_join_message:
+  notch: "Our Minecraft lord and savior has appeared under the name $display_name with a godly ping of $ping. All hail $name!"
+initiated: true
