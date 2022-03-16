@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/xnite/bobWhitelist/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/xnite/bobWhitelist/actions/workflows/maven.yml)
 # Bob's Whitelist plugin for Spigot/PaperMC
 This is a permissions based whitelist plugin. It uses permissions (such as LuckPerms) to determine if connecting players are allowed to join.
 
